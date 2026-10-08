@@ -1,4 +1,5 @@
 # toy_ds_project
 
-creation project date: Oct 8, 2026
+Creation project date: Oct 8, 2026
 
+Author: Winnie Liu
